@@ -3,10 +3,10 @@
 
 <p align="center">
   <a href="https://github.com/casualgamer-dev">
-    <img src="https://komarev.com/ghpvc/?username=casualgamer-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=casualgamer-dev&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=casualgamer-dev&theme=algolia&margin-w=10&margin-h=10&column=6" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=casualgamer-dev&theme=algolia&margin-w=10&margin-h=10&column=6&no-frame=true" alt="Trophies" />
   </a>
 </p>
 
@@ -42,10 +42,10 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=casualgamer-dev&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=casualgamer-dev&show_icons=true&theme=react&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=casualgamer-dev&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=casualgamer-dev&layout=compact&theme=react&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
